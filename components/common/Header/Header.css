@@ -1,4 +1,3 @@
-/* From Uiverse.io by Peary74 */ 
 .logoWrapper {
   font-family: inherit;
   font-size: 20px;
@@ -24,7 +23,7 @@
   height: 60px;
 }
 .logoWrapper:hover img {
-  transform: translateX(1.2em) scale(1.1);
+  transform: translateX(5em) scale(1.1);
   fill: #fff;
 }
 .logoWrapper:hover span {

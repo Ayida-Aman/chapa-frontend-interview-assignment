@@ -23,7 +23,7 @@ export default function Header() {
       <img src={logo.src} alt="" />
     </div>
   </div>
-  <span className='text-gray-300 font-serif hover:text-emerald-400'>Chapa PSP</span>
+  <span className='text-gray-300 font-serif hover:text-emerald-400'>Chapa Dashboard</span>
 </button>
 
       </div>
