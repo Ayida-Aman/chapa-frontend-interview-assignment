@@ -76,7 +76,7 @@ export default function AdminManagement() {
         <h2 className="card-title text-base-content">Manage Admins</h2>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
           <div>
-            <form onSubmit={handleAddAdmin} className='pr-52'>
+            <form onSubmit={handleAddAdmin} className='lg:pr-52 sm:pr-0'>
               <div className="form-control">
                 <label className="label">
                   <span className="label-text text-base-content py-3">Name</span>
