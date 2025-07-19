@@ -36,7 +36,7 @@ export default function TransactionForm() {
   };
 
   return (
-    <div className="card bg-base-100 shadow-xl transaction-form sm:w-full lg:w-1/3 pl-5 pr-20">
+    <div className="card bg-base-100 shadow-xl transaction-form sm:w-full lg:w-1/3 pl-5 ">
       <div className="card-body">
         <h2 className="card-title text-base-content">Send Money</h2>
         <form onSubmit={handleSubmit}>
